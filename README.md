@@ -4,4 +4,5 @@ test test
 link to the live site: https://kimikarri012.github.io/repo/
 
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSbgMjvzQ8RtVDS-eyJ_AzMOJRNJG7lMdPIHRbaGWJWefpu1Ab7acQRjKEEtcezvqcdO0YqC5f-_HRY/pubhtml?gid=293297123&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+To explore data chart
+<iframe width="702" height="434" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSbgMjvzQ8RtVDS-eyJ_AzMOJRNJG7lMdPIHRbaGWJWefpu1Ab7acQRjKEEtcezvqcdO0YqC5f-_HRY/pubchart?oid=2054774425&amp;format=interactive"></iframe>
