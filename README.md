@@ -1,5 +1,5 @@
-# repo
-test test
+# Koreatown Community Profile
+Koreatown
 
 link to the live site: https://kimikarri012.github.io/repo/
 
